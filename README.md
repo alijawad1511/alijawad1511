@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Never stop learning
 
 
-<div>
+<div align="center">
     <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/turkeyparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/saudiarabiaparrot.gif" width="30" height="30"/>
