@@ -30,11 +30,6 @@ Some of my Projects:
 - [Library Management System](https://github.com/alijawad1511/Library_Management_System)
 
 
-#### Python Projects:
-1. [Face Detection](https://github.com/alijawad1511/Face-Detection)
-2. [Lexical Analyzer - Compilor Construction](https://github.com/alijawad1511/Lexical-Analyzer)
-
-
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30"/>
