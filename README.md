@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**alijawad1511/alijawad1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working at Fiverr (Freelancing)
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on ReactJS, NodeJS, ExpressJS
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about OOP, DSA
+- 📫 How to reach me: jawad.bukhari1511@gmail.com
+- 😄 Pronouns: Me/Him
+- ⚡ Fun fact: Never stop learning
+
+
+<div>
+    <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/turkeyparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/saudiarabiaparrot.gif" width="30" height="30"/>
+</div>
