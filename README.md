@@ -21,6 +21,7 @@ Some of my Projects:
 6. [Facebook Timeline Page](https://github.com/alijawad1511/Facebook-Home-Page)
 7. [WhatsApp Web Page](https://github.com/alijawad1511/WhatsApp-Clone)
 8. [Portfolio Website](https://github.com/alijawad1511/Portfolio-Example)
+9. [Snake Game](https://github.com/alijawad1511/Snake-Game)
 
 #### Android Projects
 1. [OnlineShop App](https://github.com/alijawad1511/OnlineShop-Android-App)
