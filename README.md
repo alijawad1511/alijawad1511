@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Welcome to my Profile ####
-I am Jawad. I think you are excited to explore my profile. Sit back easy and take some snacks😉😋. I have developed many projects and going to develop more in the future. 
+I am Jawad. I am a MERN Stack Developer. I think you are excited to explore my profile. Sit back easy and take some snacks😉😋. I have developed many projects and going to develop more in the future. 
 
 - 🔭 I’m currently working at Fiverr (Freelancing)
 - 🌱 I’m currently learning ReactJS
