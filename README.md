@@ -5,8 +5,8 @@ I am Jawad. I am a MERN Stack Developer. I think you are excited to explore my p
 - 🔭 I’m currently working at Fiverr (Freelancing)
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ReactJS, NodeJS, ExpressJS
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about OOP, DSA
+- 🤔 I’m looking for help with MERN Stack
+- 💬 Ask me about PF, OOP, DSA
 - 📫 How to reach me: jawad.bukhari1511@gmail.com
 - 😄 Pronouns: Me/Him
 - ⚡ Fun fact: Never stop learning
