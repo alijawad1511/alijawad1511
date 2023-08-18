@@ -12,7 +12,7 @@ I am Jawad. I am a MERN Stack Developer. I think you are excited to explore my p
 - ⚡ Fun fact: Never stop learning
 
 Some of my Projects:
-#### Web Development Projects:
+#### Web Development Projects
 1. [Cloudiary](https://github.com/alijawad1511/Cloudiary-MERN)
 2. [ePortal System](https://github.com/alijawad1511/ePortal-System)
 3. [eCinema](https://github.com/alijawad1511/eCinema-ReactJS)
@@ -22,6 +22,9 @@ Some of my Projects:
 7. [WhatsApp Web Page](https://github.com/alijawad1511/WhatsApp-Clone)
 8. [Portfolio Website](https://github.com/alijawad1511/Portfolio-Example)
 9. [Snake Game](https://github.com/alijawad1511/Snake-Game)
+
+##### Frontend Development
+1. [Amazon Clone](https://github.com/alijawad1511/Amazon-Clone)
 
 #### Android Projects
 1. [OnlineShop App](https://github.com/alijawad1511/OnlineShop-Android-App)
